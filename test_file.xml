@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NissanCatalogData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.nissan.co.jp/NissanCatalogData" last-update="20190426-0922">
+<NissanCatalogData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.nissan.co.jp/NissanCatalogData" last-update="20190515-0200">
   <BodyType id="electric">
     <Name>電気自動車 (EV)</Name>
     <Order>1</Order>
@@ -3776,10 +3776,20 @@ ONにもOFFにもこだわる人へ、光り輝くひとつ上の日常を。</D
         <PublishDate>20181220</PublishDate>
         <Code>C2801-8122AAA</Code>
       </ContentVersion>
+      <ContentVersion>
+        <ReleaseDate>20190514-1400</ReleaseDate>
+        <NumPages>60</NumPages>
+        <SizeMb>18.03</SizeMb>
+        <UpdateLevel>
+          <Normal />
+        </UpdateLevel>
+        <PublishDate>20190515</PublishDate>
+        <Code>C2802-9051AAA</Code>
+      </ContentVersion>
     </Content>
     <Content id="nismo">
       <StartDistributeDate>10000101-1400</StartDistributeDate>
-      <EndDistributeDate>20200402-0000</EndDistributeDate>
+      <EndDistributeDate>20190512-1400</EndDistributeDate>
       <Order>2</Order>
       <Type>
         <Panflet />
@@ -3865,6 +3875,28 @@ ONにもOFFにもこだわる人へ、光り輝くひとつ上の日常を。</D
         </UpdateLevel>
         <PublishDate>20180920</PublishDate>
         <Code>F2857-8092AAA</Code>
+      </ContentVersion>
+    </Content>
+    <Content id="50th">
+      <StartDistributeDate>20190512-1400</StartDistributeDate>
+      <EndDistributeDate>20200402-0000</EndDistributeDate>
+      <Order>2</Order>
+      <Type>
+        <Panflet />
+      </Type>
+      <Name>GT-R 50th Anniversary</Name>
+      <Description>GT-Rの生誕50周年を祝して、
+往年の日産ワークスカラーを再現。
+GT-R 50th Anniversary Debut</Description>
+      <ContentVersion>
+        <ReleaseDate>20190514-1400</ReleaseDate>
+        <NumPages>16</NumPages>
+        <SizeMb>3.68</SizeMb>
+        <UpdateLevel>
+          <Normal />
+        </UpdateLevel>
+        <PublishDate>20190515</PublishDate>
+        <Code>F2861-9051AAA</Code>
       </ContentVersion>
     </Content>
   </Model>
