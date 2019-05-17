@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NissanCatalogData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.nissan.co.jp/NissanCatalogData" last-update="20190426-0922">
+<NissanCatalogData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.nissan.co.jp/NissanCatalogData" last-update="20190218-0552">
   <BodyType id="electric">
     <Name>電気自動車 (EV)</Name>
     <Order>1</Order>
@@ -196,16 +196,6 @@
         </UpdateLevel>
         <PublishDate>20190123</PublishDate>
         <Code>C3411-9011AAA</Code>
-      </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190426-1400</ReleaseDate>
-        <NumPages>60</NumPages>
-        <SizeMb>12.75</SizeMb>
-        <UpdateLevel>
-          <Low />
-        </UpdateLevel>
-        <PublishDate>20190426</PublishDate>
-        <Code>C3411-9042AAA</Code>
       </ContentVersion>
     </Content>
     <Content id="80th">
@@ -1145,16 +1135,6 @@
         <PublishDate>20190218</PublishDate>
         <Code>C1000-9022AAA</Code>
       </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190412-1400</ReleaseDate>
-        <NumPages>70</NumPages>
-        <SizeMb>14.44</SizeMb>
-        <UpdateLevel>
-          <Low />
-        </UpdateLevel>
-        <PublishDate>20190412</PublishDate>
-        <Code>C1001-9041AAA</Code>
-      </ContentVersion>
     </Content>
     <Content id="vselection">
       <StartDistributeDate>20160401-1400</StartDistributeDate>
@@ -1459,16 +1439,6 @@ NISMOの世界に、今までにない感動を呼び起こす。</Description>
         <PublishDate>20181122</PublishDate>
         <Code>F1017-8112AAA</Code>
       </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190412-1400</ReleaseDate>
-        <NumPages>18</NumPages>
-        <SizeMb>3.34</SizeMb>
-        <UpdateLevel>
-          <Low />
-        </UpdateLevel>
-        <PublishDate>20190412</PublishDate>
-        <Code>F1019-9041AAA</Code>
-      </ContentVersion>
     </Content>
     <Content id="aero">
       <StartDistributeDate>20130701-1400</StartDistributeDate>
@@ -1732,16 +1702,6 @@ NOTE C-Gear Limited</Description>
         <PublishDate>20181102</PublishDate>
         <Code>C3503-8112AAA</Code>
       </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190417-1400</ReleaseDate>
-        <NumPages>32</NumPages>
-        <SizeMb>10.32</SizeMb>
-        <UpdateLevel>
-          <Normal />
-        </UpdateLevel>
-        <PublishDate>20190417</PublishDate>
-        <Code>C3504-9041AAA</Code>
-      </ContentVersion>
     </Content>
     <Content id="kodawari">
       <StartDistributeDate>20150101-1400</StartDistributeDate>
@@ -1944,16 +1904,6 @@ NOTE C-Gear Limited</Description>
         </UpdateLevel>
         <PublishDate>20181102</PublishDate>
         <Code>F3508-8112AAA</Code>
-      </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190417-1400</ReleaseDate>
-        <NumPages>4</NumPages>
-        <SizeMb>1.86</SizeMb>
-        <UpdateLevel>
-          <Normal />
-        </UpdateLevel>
-        <PublishDate>20190417</PublishDate>
-        <Code>F3509-9041AAA</Code>
       </ContentVersion>
     </Content>
     <Content id="deco">
@@ -2158,16 +2108,6 @@ NOTE C-Gear Limited</Description>
         </UpdateLevel>
         <PublishDate>20181214</PublishDate>
         <Code>C0409-8122AAA</Code>
-      </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190412-1400</ReleaseDate>
-        <NumPages>36</NumPages>
-        <SizeMb>11.31</SizeMb>
-        <UpdateLevel>
-          <Low />
-        </UpdateLevel>
-        <PublishDate>20190412</PublishDate>
-        <Code>C0400-9041AAA</Code>
       </ContentVersion>
     </Content>
     <Content id="nismo">
@@ -2495,16 +2435,6 @@ NOTE C-Gear Limited</Description>
         <PublishDate>20181213</PublishDate>
         <Code>C2315-8121AAA</Code>
       </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190412-1400</ReleaseDate>
-        <NumPages>68</NumPages>
-        <SizeMb>25.2</SizeMb>
-        <UpdateLevel>
-          <Low />
-        </UpdateLevel>
-        <PublishDate>20190412</PublishDate>
-        <Code>C2316-9041AAA</Code>
-      </ContentVersion>
     </Content>
     <Content id="precatalog">
       <StartDistributeDate>20131203-1400</StartDistributeDate>
@@ -2808,16 +2738,6 @@ NOTE C-Gear Limited</Description>
         </UpdateLevel>
         <PublishDate>20190111</PublishDate>
         <Code>C3819-9011AAA</Code>
-      </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190412-1400</ReleaseDate>
-        <NumPages>76</NumPages>
-        <SizeMb>25.29</SizeMb>
-        <UpdateLevel>
-          <Low />
-        </UpdateLevel>
-        <PublishDate>20190412</PublishDate>
-        <Code>C3820-9041AAA</Code>
       </ContentVersion>
     </Content>
     <Content id="riderblzz">
@@ -3187,16 +3107,6 @@ NOTE C-Gear Limited</Description>
         </UpdateLevel>
         <PublishDate>20181212</PublishDate>
         <Code>F3824-8122AAA</Code>
-      </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190412-1400</ReleaseDate>
-        <NumPages>10</NumPages>
-        <SizeMb>3.15</SizeMb>
-        <UpdateLevel>
-          <Low />
-        </UpdateLevel>
-        <PublishDate>20190412</PublishDate>
-        <Code>F3825-9041AAA</Code>
       </ContentVersion>
     </Content>
   </Model>
@@ -4366,16 +4276,6 @@ ONにもOFFにもこだわる人へ、光り輝くひとつ上の日常を。</D
         <PublishDate>20190111</PublishDate>
         <Code>C2412-9011AAA</Code>
       </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190412-1400</ReleaseDate>
-        <NumPages>62</NumPages>
-        <SizeMb>15.11</SizeMb>
-        <UpdateLevel>
-          <Low />
-        </UpdateLevel>
-        <PublishDate>20190412</PublishDate>
-        <Code>C2413-9041AAA</Code>
-      </ContentVersion>
     </Content>
     <Content id="blackxtremerx">
       <StartDistributeDate>20150101-1400</StartDistributeDate>
@@ -4795,16 +4695,6 @@ ONにもOFFにもこだわる人へ、光り輝くひとつ上の日常を。</D
         <PublishDate>20170619</PublishDate>
         <Code>C2204-7062AAA</Code>
       </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190412-1400</ReleaseDate>
-        <NumPages>62</NumPages>
-        <SizeMb>17.44</SizeMb>
-        <UpdateLevel>
-          <Low />
-        </UpdateLevel>
-        <PublishDate>20190412</PublishDate>
-        <Code>C2205-9041AAA</Code>
-      </ContentVersion>
     </Content>
   </Model>
   <Model id="fuga">
@@ -4925,16 +4815,6 @@ ONにもOFFにもこだわる人へ、光り輝くひとつ上の日常を。</D
         </UpdateLevel>
         <PublishDate>20180401</PublishDate>
         <Code>C2115-8041AAA</Code>
-      </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190412-1400</ReleaseDate>
-        <NumPages>68</NumPages>
-        <SizeMb>14.53</SizeMb>
-        <UpdateLevel>
-          <Low />
-        </UpdateLevel>
-        <PublishDate>20190412</PublishDate>
-        <Code>C2116-9041AAA</Code>
       </ContentVersion>
     </Content>
   </Model>
@@ -5445,16 +5325,6 @@ ONにもOFFにもこだわる人へ、光り輝くひとつ上の日常を。</D
         <PublishDate>20190123</PublishDate>
         <Code>-</Code>
       </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190401-1400</ReleaseDate>
-        <NumPages>22</NumPages>
-        <SizeMb>4.11</SizeMb>
-        <UpdateLevel>
-          <Low />
-        </UpdateLevel>
-        <PublishDate>20190401</PublishDate>
-        <Code>-</Code>
-      </ContentVersion>
     </Content>
   </Model>
   <Model id="manual">
@@ -5697,16 +5567,6 @@ ONにもOFFにもこだわる人へ、光り輝くひとつ上の日常を。</D
         </UpdateLevel>
         <PublishDate>20190124</PublishDate>
         <Code>C2514-9016AAA</Code>
-      </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190412-1400</ReleaseDate>
-        <NumPages>62</NumPages>
-        <SizeMb>15.82</SizeMb>
-        <UpdateLevel>
-          <Low />
-        </UpdateLevel>
-        <PublishDate>20190412</PublishDate>
-        <Code>C2515-9041AAA</Code>
       </ContentVersion>
     </Content>
     <Content id="chromegear">
@@ -5980,16 +5840,6 @@ ONにもOFFにもこだわる人へ、光り輝くひとつ上の日常を。</D
         </UpdateLevel>
         <PublishDate>20190111</PublishDate>
         <Code>C1314-9014AAA</Code>
-      </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190328-1400</ReleaseDate>
-        <NumPages>44</NumPages>
-        <SizeMb>11.12</SizeMb>
-        <UpdateLevel>
-          <High />
-        </UpdateLevel>
-        <PublishDate>20190328</PublishDate>
-        <Code>C1320-9031AAA</Code>
       </ContentVersion>
     </Content>
     <Content id="vselection">
@@ -6305,16 +6155,6 @@ ONにもOFFにもこだわる人へ、光り輝くひとつ上の日常を。</D
         <PublishDate>20190215</PublishDate>
         <Code>C4513-9026AAA</Code>
       </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190426-1400</ReleaseDate>
-        <NumPages>52</NumPages>
-        <SizeMb>13.46</SizeMb>
-        <UpdateLevel>
-          <Low />
-        </UpdateLevel>
-        <PublishDate>20190426</PublishDate>
-        <Code>C4513-9047AAA</Code>
-      </ContentVersion>
     </Content>
     <Content id="vselection">
       <StartDistributeDate>20150101-1400</StartDistributeDate>
@@ -6570,16 +6410,6 @@ ONにもOFFにもこだわる人へ、光り輝くひとつ上の日常を。</D
         </UpdateLevel>
         <PublishDate>20181126</PublishDate>
         <Code>C4230-8114AAA</Code>
-      </ContentVersion>
-      <ContentVersion>
-        <ReleaseDate>20190412-1400</ReleaseDate>
-        <NumPages>54</NumPages>
-        <SizeMb>13.77</SizeMb>
-        <UpdateLevel>
-          <Normal />
-        </UpdateLevel>
-        <PublishDate>20190412</PublishDate>
-        <Code>C4231-9041AAA</Code>
       </ContentVersion>
     </Content>
     <Content id="60th">
